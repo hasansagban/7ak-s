@@ -1,0 +1,19 @@
+{
+  "name": "Antrenman Karnesi",
+  "short_name": "Antrenman",
+  "description": "Haftalık antrenman, vücut analizi, beslenme ve cardio takip uygulaması",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "background_color": "#EEF0EA",
+  "theme_color": "#1C2321",
+  "orientation": "portrait-primary",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
